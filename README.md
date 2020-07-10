@@ -1,3 +1,3 @@
 ### TESTING
 
-![ship](./img/ship.png)
+![ship](https://raw.githubusercontent.com/tylfin/tylfin/master/img/ship.png)
