@@ -1,3 +1,3 @@
 ### TESTING
 
-![ship](./ship.gif)
+![ship](./img/ship.gif)
